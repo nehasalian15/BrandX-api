@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "busboy": "^0.3.1",
     "command-line-args": "^4.0.7",
     "cors": "^2.8.4",
